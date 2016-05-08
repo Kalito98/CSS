@@ -1,0 +1,17 @@
+#table
+{
+   width: 30%;
+   border: 1;
+   padding: 0px;
+}
+th, td {
+    padding: 3px;
+    font-size: 17px;
+}
+#top{
+    background-color: hsla(117, 55%, 45%, 1);
+    color: white;
+}
+.two{
+    background-color: #ECECD8;
+}

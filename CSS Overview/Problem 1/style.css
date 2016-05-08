@@ -1,0 +1,31 @@
+body{
+    background-color: #595959;
+}
+
+#table
+{
+   width: 30%;
+   border: 1;
+   padding: 0px;
+}
+th, td {
+    padding: 5px;
+    font-size: 15px;
+}
+.whitetext{
+    color: white;
+    font-style: italic;
+}
+.yellowtext{
+    color: #ffff99;
+}
+.greytext{
+    color: grey;
+}
+#redtext{
+    color: red;
+    font-size: 17px;
+}
+#orangetext{
+    color: orange;
+}
