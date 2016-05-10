@@ -9,7 +9,7 @@ th, td {
     font-size: 17px;
 }
 #top{
-    background-color: hsla(117, 55%, 45%, 1);
+    background:  linear-gradient(to bottom, rgba(191,210,85,1) 0%,rgba(142,185,42,1) 50%,rgba(114,170,0,1) 51%,rgba(158,203,45,1) 100%);
     color: white;
 }
 .two{
